@@ -12,3 +12,5 @@ A = np.zeros(5)
 print(A)
 
 print("Hello world")
+
+print("hello")
